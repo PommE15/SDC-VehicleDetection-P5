@@ -3,7 +3,7 @@
 
 ---
 
-** Vehicle Detection Project**
+** Vehicle Detection Project **
 
 The goals / steps of this project are the following:
 
@@ -15,13 +15,13 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./output_images/car_not_car.png
-[image2]: ./output_images/HOG_example.jpg
-[image3]: ./output_images/sliding_windows.jpg
-[image4]: ./output_images/sliding_window.jpg
-[image5]: ./output_images/bboxes_and_heat.png
-[image6]: ./output_images/labels_map.png
-[image7]: ./output_images/output_bboxes.png
+[image1]: ./output_images/dm_car_not_car.png
+[image2]: ./output_images/dm_HOG_example.jpg
+[image3]: ./output_images/dm_sliding_windows.jpg
+[image4]: ./output_images/dm_sliding_window.jpg
+[image5]: ./output_images/dm_bboxes_and_heat.png
+[image6]: ./output_images/dm_labels_map.png
+[image7]: ./output_images/dm_output_bboxes.png
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
