@@ -10,7 +10,7 @@
 - Estimate a bounding box for vehicles detected.
 
 ### Submission Files
-- writeup.pdf report
-- code in Jupyter notebook
-- example output_images for each stage of your pipeline
-- final output video
+- [writeup.pdf](https://github.com/PommE15/SDC-VehicleDetection-P5/blob/master/writeup.pdf) report
+- code in [Jupyter notebook](https://github.com/PommE15/SDC-VehicleDetection-P5/blob/master/Vehicle_Detection.ipynb)
+- example [output_images](https://github.com/PommE15/SDC-VehicleDetection-P5/tree/master/output_images) for each stage of your pipeline
+- final [output video](https://youtu.be/Cj3h81ISrRA) on YouTube
